@@ -1,1 +1,2 @@
 SELECT * FROM table;
+INSERT INTO table VALUES (1,3);
