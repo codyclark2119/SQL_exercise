@@ -1,3 +1,4 @@
 SELECT * FROM table;
 INSERT INTO table VALUES (1,3);
 SELECT name FROM table;
+DELETE TABLE table;
